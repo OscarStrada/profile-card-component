@@ -106,7 +106,7 @@ body {
       transform: translate(-50%, 40%); } }
 @media (min-width: 1080px) {
   .card {
-    width: 27%;
+    width: 25%;
     height: 50%; }
     .card .circle {
       width: 110px;
